@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pascal (@CMDRSpirit)
-- 👀 I’m interested in computer graphics, game development and 3d stuff in general
-- 🌱 I’m currently a computer science master student at KIT and working on a strategy game in my free time
+- 👀 I’m interested in computer graphics, game development and 3d stuff in general, using Unreal Engine, Unity and core graphics APIs.
+- 🌱 I’m currently working as a research scientist in automotive, 3D rendering and AI.
 - 💞️ I don't have any collaborations running at the moment
 - 📫 Feel free to contact me if interested in any of my projects...
 
